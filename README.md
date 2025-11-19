@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shengya Zhang
 
-- 🎓 **PhD Student in Computer Science** | University of Minnesota  
+- 🎓 **PhD Student in Computer Science** | University of Minnesota Twin Cities  
 - 🔬 **Research Focus**:Spatial Data Mining, GIS, Spatial Computing, Spatial Database Systems  
 - 👨‍🏫 **Teaching Assistant**:
   - CSCI5715 From GPS, Google Maps, and Uber to Spatial Data Science
