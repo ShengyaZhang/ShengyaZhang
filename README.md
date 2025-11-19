@@ -3,9 +3,9 @@
 - 🎓 **PhD Student in Computer Science** | University of Minnesota  
 - 🔬 **Research Focus**:Spatial Data Mining, GIS, Spatial Computing, Spatial Database Systems  
 - 👨‍🏫 **Teaching Assistant**:
-- CSCI5715 From GPS, Google Maps, and Uber to Spatial Data Science
-- CSCI5801 Software Engineering I
-- CSCI5708 Architecture and Implementation of Database Management Systems
+  - CSCI5715 From GPS, Google Maps, and Uber to Spatial Data Science
+  - CSCI5801 Software Engineering I
+  - CSCI5708 Architecture and Implementation of Database Management Systems
 
 ## 🔭 Current Research
 
