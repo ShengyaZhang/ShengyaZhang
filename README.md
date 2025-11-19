@@ -43,7 +43,7 @@ Oracle Spatial • PostgreSQL/PostGIS • MongoDB
 
 ## 📫 Connect With Me
 
-- 🏫 University Email: [zhan9051@umn.edu](mailto:zhan9051 AT umn DOT edu)
+- 🏫 University Email: [zhan9051 AT umn DOT edu]
 - 🔗 LinkedIn: [linkedin.com/in/shengya-zhang](https://www.linkedin.com/in/shengya-zhang-0a6601133/)
 
 <!--
